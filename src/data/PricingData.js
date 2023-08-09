@@ -1,40 +1,29 @@
 export const pricingData = [
 	{
-		title: 'Basic',
-		price: '$7.99 user/month after offer period',
-		numAcc: '50-100 accounts',
-		features: ['Secure accounts', 'Best for small business', 'Easy', 'Affordable', '1GB RAM'],
+		title: 'El Rapido',
+		price: '$129.99',
+		numAcc: 'Nettoyage rapide pour petite cuisine ',
+		features: [],
 	},
 	{
 		title: 'Standard',
-		price: '$18.99 user/month after offer period',
-		numAcc: '50-500 accounts',
+		price: '$189.99',
+		numAcc: 'Prix pour un nettoyage régulier',
 		features: [
-			'Secure accounts',
-			'Best for small business',
-			'Customizable',
-			'3GB RAM',
-			'1TB SSD',
 		],
 	},
 	{
-		title: 'Premium',
-		price: '$32.50 user/month after offer period',
-		numAcc: '50-1000 accounts',
+		title: 'Nettoyage extrême',
+		price: '$359.99',
+		numAcc: 'Recevez une estimation',
 		features: [
-			'Secure accounts',
-			'Best for small business',
-			'Customizable',
-			'Easy Integration',
-			'Development Team',
-			'DNS & Domain included',
 		],
 	},
 
 	{
-		title: 'Enterprise',
-		price: '$55.50 user/month after offer period ',
-		numAcc: '1000+ Accounts',
-		features: ['Unlimited Storage', 'Scalability', 'Free DNS & Domain'],
+		title: 'Sur mesure',
+		price: 'Prix variable',
+		numAcc: 'Nettoyage complet de votre restaurant',
+		features: [],
 	},
 ];
