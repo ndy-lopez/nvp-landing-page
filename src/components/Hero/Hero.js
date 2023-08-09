@@ -1,8 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Button, Container, MainHeading } from "../../globalStyles";
+import { Container, MainHeading } from "../../globalStyles";
 import {
-  HeroVideo,
   HeroSection,
   HeroText,
   ButtonWrapper,
