@@ -39,7 +39,7 @@ export const heroThree = {
 		"Nos 9 ans d'expériences et notre expertise saura vous plaire.",
 	buttonLabel: 'Contactez-nous',
 
-	linkTo: '/download',
+	linkTo: '/contact',
 	imgStart: '',
 	img: './assets/Clean2.png',
 	start: 'true',

@@ -20,7 +20,7 @@ function Pricing() {
 		<IconContext.Provider value={{ color: '#a9b3c1', size: '1rem' }}>
 			<PricingSection id="pricing">
 				<PricingWrapper>
-					<Heading>Pick Your Best Option</Heading>
+					<Heading>Sélectionnez Votre Meilleur Option</Heading>
 
 					<TextWrapper
 						mb="1.4rem"
@@ -29,7 +29,7 @@ function Pricing() {
 						color="white"
 						align="center"
 					>
-						Create, maintain and store your data with Delta.
+
 					</TextWrapper>
 					<PricingContainer>
 						{pricingData.map((card, index) => (
@@ -45,7 +45,7 @@ function Pricing() {
 											</PricingCardFeature>
 										))}
 									</PricingCardFeatures>
-									<Button>Get Started</Button>
+									<Button>Allez hop!</Button>
 								</PricingCardInfo>
 							</PricingCard>
 						))}
