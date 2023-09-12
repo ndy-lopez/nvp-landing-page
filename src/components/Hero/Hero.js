@@ -23,10 +23,10 @@ const Hero = () => {
             restaurant.
           </HeroText>
           <ButtonWrapper>
-            <Link to="pricing">
+            <Link to="/pricing">
               <HeroButton>Offres</HeroButton>
             </Link>
-            <Link to="about">
+            <Link to="/about">
               <HeroButton>En savoir plus</HeroButton>
             </Link>
           </ButtonWrapper>

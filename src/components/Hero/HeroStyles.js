@@ -52,7 +52,6 @@ export const HeroButton = styled(Button)`
   width: 100%;
   max-width: 460px;
   cursor: pointer;
-  transform: rotate(-2deg);
 
   @media (max-width: 768px) {
     /* Adjust the padding for smaller screens */
